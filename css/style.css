@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+p{
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+img{
+    border-radius: 10px;
+}
+
+a{
+    text-decoration: none;
+}
