@@ -2,8 +2,10 @@
 > Lien: https://tiagordrgs3.github.io/SiteProjet-Tourisme-Suisse/
 
 
-**Structure :**
 
+**Lieux**: Chûtes de Rhin, Pont de la Chapelle et Lac de Oeschinen
+
+**Structure :**
 ```
 SiteProjet-Tourisme-Suisse/
 ├── css/
