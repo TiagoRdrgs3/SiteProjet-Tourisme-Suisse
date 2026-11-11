@@ -14,18 +14,23 @@ p{
 
 
 h2{
-    margin-left: 10vh;
-    margin-top: 2vw;
-    margin-bottom: 2vw;
+    margin-left: 10vw;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
 }
 
 .img-card{
-    margin-left: 10vh;
+    margin-left: 10vw;
     margin-bottom: 1vw;
 }
 
 .descriptions{
-    margin-left: 10vh;
+    margin-left: 10vw;
+}
+
+.autres-infos{
+    margin-top: 3vh;
+    margin-left: 10vw;
 }
 
 img{
