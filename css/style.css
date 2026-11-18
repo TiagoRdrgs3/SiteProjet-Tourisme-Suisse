@@ -80,3 +80,14 @@ section:hover{
     background-color: rgba(219, 219, 219, 0.658);
     transform: scale(1.02);
 }
+
+
+/*CSS RAF*/
+#titre-hebergement{
+    display: flex;
+    background-color: #FF0000;
+    padding-left: 50vw;
+}
+.lien-hotel{
+    color: black;
+}
