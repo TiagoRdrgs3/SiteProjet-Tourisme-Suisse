@@ -83,7 +83,7 @@ section:hover{
 
 
 /*CSS RAF*/
-#titre-hebergement{
+.titre{
     display: flex;
     background-color: #FF0000;
     padding-left: 50vw;
